@@ -1,0 +1,149 @@
+C:\Documents and Settings\horng\Local Settings\Application Data\Temporary Projects\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+C:\Documents and Settings\horng\Local Settings\Application Data\Temporary Projects\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+C:\Documents and Settings\horng\Local Settings\Application Data\Temporary Projects\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+C:\Documents and Settings\horng\Local Settings\Application Data\Temporary Projects\WindowsApplication1\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\horng\Local Settings\Application Data\Temporary Projects\WindowsApplication1\obj\Debug\WindowsApplication1.Form1.resources
+C:\Documents and Settings\horng\Local Settings\Application Data\Temporary Projects\WindowsApplication1\obj\Debug\WindowsApplication1.Resources.resources
+C:\Documents and Settings\horng\Local Settings\Application Data\Temporary Projects\WindowsApplication1\obj\Debug\WindowsApplication1.vbproj.GenerateResource.Cache
+C:\Documents and Settings\horng\Local Settings\Application Data\Temporary Projects\WindowsApplication1\obj\Debug\WindowsApplication1.exe
+C:\Documents and Settings\horng\Local Settings\Application Data\Temporary Projects\WindowsApplication1\obj\Debug\WindowsApplication1.xml
+C:\Documents and Settings\horng\Local Settings\Application Data\Temporary Projects\WindowsApplication1\obj\Debug\WindowsApplication1.pdb
+G:\vbbook\ch09\e9_2e\WindowsApplication1\obj\Debug\WindowsApplication1.exe
+G:\vbbook\ch09\e9_2e\WindowsApplication1\obj\Debug\WindowsApplication1.xml
+G:\vbbook\ch09\e9_2e\WindowsApplication1\obj\Debug\WindowsApplication1.pdb
+G:\vbbook\ch09\e9_2e\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+G:\vbbook\ch09\e9_2e\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+G:\vbbook\ch09\e9_2e\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+G:\vbbook\ch09\e9_2e\WindowsApplication1\obj\Debug\ResolveAssemblyReference.cache
+G:\vbbook\ch09\e9_2e\WindowsApplication1\obj\Debug\WindowsApplication1.Form1.resources
+G:\vbbook\ch09\e9_2e\WindowsApplication1\obj\Debug\WindowsApplication1.Resources.resources
+G:\vbbook\ch09\e9_2e\WindowsApplication1\obj\Debug\WindowsApplication1.vbproj.GenerateResource.Cache
+F:\vbbook\ch09\e9_2e\WindowsApplication1\obj\Debug\WindowsApplication1.exe
+F:\vbbook\ch09\e9_2e\WindowsApplication1\obj\Debug\WindowsApplication1.xml
+F:\vbbook\ch09\e9_2e\WindowsApplication1\obj\Debug\WindowsApplication1.pdb
+F:\vbbook\ch09\e9_1_2e\WindowsApplication1\obj\Debug\WindowsApplication1.exe
+F:\vbbook\ch09\e9_1_2e\WindowsApplication1\obj\Debug\WindowsApplication1.xml
+F:\vbbook\ch09\e9_1_2e\WindowsApplication1\obj\Debug\WindowsApplication1.pdb
+F:\vbbook\ch09\e9_1_2e\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+F:\vbbook\ch09\e9_1_2e\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+F:\vbbook\ch09\e9_1_2e\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+F:\vbbook\ch09\e9_1_2e\WindowsApplication1\obj\Debug\ResolveAssemblyReference.cache
+F:\vbbook\ch09\e9_1_2e\WindowsApplication1\obj\Debug\WindowsApplication1.Form1.resources
+F:\vbbook\ch09\e9_1_2e\WindowsApplication1\obj\Debug\WindowsApplication1.Resources.resources
+F:\vbbook\ch09\e9_1_2e\WindowsApplication1\obj\Debug\WindowsApplication1.vbproj.GenerateResource.Cache
+D:\vbbook\ch09\e9_1_2e\WindowsApplication1\bin\Debug\WindowsApplication1.exe.config
+D:\vbbook\ch09\e9_1_2e\WindowsApplication1\obj\Debug\WindowsApplication1.exe
+D:\vbbook\ch09\e9_1_2e\WindowsApplication1\obj\Debug\WindowsApplication1.xml
+D:\vbbook\ch09\e9_1_2e\WindowsApplication1\obj\Debug\WindowsApplication1.pdb
+D:\vbbook\ch09\e9_1_2e\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+D:\vbbook\ch09\e9_1_2e\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+D:\vbbook\ch09\e9_1_2e\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+D:\vbbook\ch09\e9_1_2e\WindowsApplication1\obj\Debug\ResolveAssemblyReference.cache
+D:\vbbook\ch09\e9_1_2e\WindowsApplication1\obj\Debug\WindowsApplication1.Form1.resources
+D:\vbbook\ch09\e9_1_2e\WindowsApplication1\obj\Debug\WindowsApplication1.Resources.resources
+D:\vbbook\ch09\e9_1_2e\WindowsApplication1\obj\Debug\GenerateResource.read.1.tlog
+D:\vbbook\ch09\e9_1_2e\WindowsApplication1\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\Administrator\Desktop\e9_1_2e\WindowsApplication1\bin\Debug\WindowsApplication1.exe.config
+C:\Users\Administrator\Desktop\e9_1_2e\WindowsApplication1\obj\Debug\WindowsApplication1.exe
+C:\Users\Administrator\Desktop\e9_1_2e\WindowsApplication1\obj\Debug\WindowsApplication1.xml
+C:\Users\Administrator\Desktop\e9_1_2e\WindowsApplication1\obj\Debug\WindowsApplication1.pdb
+C:\Users\Administrator\Desktop\e9_1_2e\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+C:\Users\Administrator\Desktop\e9_1_2e\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+C:\Users\Administrator\Desktop\e9_1_2e\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+C:\Users\Administrator\Desktop\e9_1_2e\WindowsApplication1\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\e9_1_2e\WindowsApplication1\obj\Debug\WindowsApplication1.Form1.resources
+C:\Users\Administrator\Desktop\e9_1_2e\WindowsApplication1\obj\Debug\WindowsApplication1.Resources.resources
+C:\Users\Administrator\Desktop\e9_1_2e\WindowsApplication1\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\Administrator\Desktop\e9_1_2e\WindowsApplication1\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\Administrator\Desktop\ass hole\WindowsApplication1\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\ass hole\WindowsApplication1\obj\Debug\WindowsApplication1.Form1.resources
+C:\Users\Administrator\Desktop\ass hole\WindowsApplication1\obj\Debug\WindowsApplication1.Resources.resources
+C:\Users\Administrator\Desktop\ass hole\WindowsApplication1\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\Administrator\Desktop\ass hole\WindowsApplication1\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\Administrator\Desktop\ass hole\WindowsApplication1\obj\Debug\WindowsApplication1.Form2.resources
+C:\Users\Administrator\Desktop\ass hole\WindowsApplication1\obj\Debug\WindowsApplication1.Form3.resources
+C:\Users\Administrator\Desktop\ass hole\WindowsApplication1\obj\Debug\WindowsApplication1.Form4.resources
+C:\Users\Administrator\Desktop\ass hole\WindowsApplication1\bin\Debug\f4.exe.config
+C:\Users\Administrator\Desktop\ass hole\WindowsApplication1\bin\Debug\f4.exe
+C:\Users\Administrator\Desktop\ass hole\WindowsApplication1\bin\Debug\f4.pdb
+C:\Users\Administrator\Desktop\ass hole\WindowsApplication1\bin\Debug\f4.xml
+C:\Users\Administrator\Desktop\ass hole\WindowsApplication1\obj\Debug\f4.exe
+C:\Users\Administrator\Desktop\ass hole\WindowsApplication1\obj\Debug\f4.xml
+C:\Users\Administrator\Desktop\ass hole\WindowsApplication1\obj\Debug\f4.pdb
+C:\Users\Administrator\Desktop\ass hole\WindowsApplication1\obj\Debug\WindowsApplication1.Form5.resources
+C:\Users\Administrator\Desktop\ass hole\WindowsApplication1\obj\Debug\WindowsApplication1.Form6.resources
+C:\Users\Administrator\Desktop\ass hole\20111212\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\ass hole\20111212\obj\Debug\WindowsApplication1.Form1.resources
+C:\Users\Administrator\Desktop\ass hole\20111212\obj\Debug\WindowsApplication1.Form2.resources
+C:\Users\Administrator\Desktop\ass hole\20111212\obj\Debug\WindowsApplication1.Form3.resources
+C:\Users\Administrator\Desktop\ass hole\20111212\obj\Debug\WindowsApplication1.Form4.resources
+C:\Users\Administrator\Desktop\ass hole\20111212\obj\Debug\WindowsApplication1.Form5.resources
+C:\Users\Administrator\Desktop\ass hole\20111212\obj\Debug\WindowsApplication1.Form6.resources
+C:\Users\Administrator\Desktop\ass hole\20111212\obj\Debug\WindowsApplication1.Resources.resources
+C:\Users\Administrator\Desktop\ass hole\20111212\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\Administrator\Desktop\ass hole\20111212\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\Administrator\Desktop\ass hole\20111212\bin\Debug\f5.exe.config
+C:\Users\Administrator\Desktop\ass hole\20111212\bin\Debug\f5.exe
+C:\Users\Administrator\Desktop\ass hole\20111212\bin\Debug\f5.pdb
+C:\Users\Administrator\Desktop\ass hole\20111212\bin\Debug\f5.xml
+C:\Users\Administrator\Desktop\ass hole\20111212\obj\Debug\f5.exe
+C:\Users\Administrator\Desktop\ass hole\20111212\obj\Debug\f5.xml
+C:\Users\Administrator\Desktop\ass hole\20111212\obj\Debug\f5.pdb
+C:\Users\Administrator\Desktop\ass hole\20011227\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\ass hole\20011227\obj\Debug\WindowsApplication1.Form1.resources
+C:\Users\Administrator\Desktop\ass hole\20011227\obj\Debug\WindowsApplication1.Form2.resources
+C:\Users\Administrator\Desktop\ass hole\20011227\obj\Debug\WindowsApplication1.Form3.resources
+C:\Users\Administrator\Desktop\ass hole\20011227\obj\Debug\WindowsApplication1.Form4.resources
+C:\Users\Administrator\Desktop\ass hole\20011227\obj\Debug\WindowsApplication1.Form5.resources
+C:\Users\Administrator\Desktop\ass hole\20011227\obj\Debug\WindowsApplication1.Form6.resources
+C:\Users\Administrator\Desktop\ass hole\20011227\obj\Debug\WindowsApplication1.Resources.resources
+C:\Users\Administrator\Desktop\ass hole\20011227\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\Administrator\Desktop\ass hole\20011227\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\Administrator\Desktop\ass hole\20011227\obj\Debug\WindowsApplication1.Form7.resources
+C:\Users\Administrator\Desktop\ass hole\20011227\obj\Debug\WindowsApplication1.Form8.resources
+C:\Users\Administrator\Desktop\ass hole\20011227\bin\Debug\f7.exe.config
+C:\Users\Administrator\Desktop\ass hole\20011227\bin\Debug\f7.exe
+C:\Users\Administrator\Desktop\ass hole\20011227\bin\Debug\f7.pdb
+C:\Users\Administrator\Desktop\ass hole\20011227\bin\Debug\f7.xml
+C:\Users\Administrator\Desktop\ass hole\20011227\obj\Debug\f7.exe
+C:\Users\Administrator\Desktop\ass hole\20011227\obj\Debug\f7.xml
+C:\Users\Administrator\Desktop\ass hole\20011227\obj\Debug\f7.pdb
+E:\文\論文\20120409\bin\Debug\f7.exe.config
+E:\文\論文\20120409\obj\Debug\f7.exe
+E:\文\論文\20120409\obj\Debug\f7.xml
+E:\文\論文\20120409\obj\Debug\f7.pdb
+E:\文\論文\20120409\bin\Debug\f7.exe
+E:\文\論文\20120409\bin\Debug\f7.pdb
+E:\文\論文\20120409\bin\Debug\f7.xml
+E:\文\論文\20120409\obj\Debug\ResolveAssemblyReference.cache
+E:\文\論文\20120409\obj\Debug\WindowsApplication1.Form1.resources
+E:\文\論文\20120409\obj\Debug\WindowsApplication1.Form2.resources
+E:\文\論文\20120409\obj\Debug\WindowsApplication1.Form3.resources
+E:\文\論文\20120409\obj\Debug\WindowsApplication1.Form4.resources
+E:\文\論文\20120409\obj\Debug\WindowsApplication1.Form5.resources
+E:\文\論文\20120409\obj\Debug\WindowsApplication1.Form6.resources
+E:\文\論文\20120409\obj\Debug\WindowsApplication1.Form7.resources
+E:\文\論文\20120409\obj\Debug\WindowsApplication1.Form8.resources
+E:\文\論文\20120409\obj\Debug\WindowsApplication1.Resources.resources
+E:\文\論文\20120409\obj\Debug\GenerateResource.read.1.tlog
+E:\文\論文\20120409\obj\Debug\GenerateResource.write.1.tlog
+E:\文\論文\20120409-M2\bin\Debug\f7.exe.config
+E:\文\論文\20120409-M2\obj\Debug\f7.exe
+E:\文\論文\20120409-M2\obj\Debug\f7.xml
+E:\文\論文\20120409-M2\obj\Debug\f7.pdb
+E:\文\論文\20120409-M2\bin\Debug\f7.exe
+E:\文\論文\20120409-M2\bin\Debug\f7.pdb
+E:\文\論文\20120409-M2\bin\Debug\f7.xml
+E:\文\論文\20120409-M2\obj\Debug\ResolveAssemblyReference.cache
+E:\文\論文\20120409-M2\obj\Debug\WindowsApplication1.Form1.resources
+E:\文\論文\20120409-M2\obj\Debug\WindowsApplication1.Form2.resources
+E:\文\論文\20120409-M2\obj\Debug\WindowsApplication1.Form3.resources
+E:\文\論文\20120409-M2\obj\Debug\WindowsApplication1.Form4.resources
+E:\文\論文\20120409-M2\obj\Debug\WindowsApplication1.Form5.resources
+E:\文\論文\20120409-M2\obj\Debug\WindowsApplication1.Form6.resources
+E:\文\論文\20120409-M2\obj\Debug\WindowsApplication1.Form7.resources
+E:\文\論文\20120409-M2\obj\Debug\WindowsApplication1.Form8.resources
+E:\文\論文\20120409-M2\obj\Debug\WindowsApplication1.Resources.resources
+E:\文\論文\20120409-M2\obj\Debug\GenerateResource.read.1.tlog
+E:\文\論文\20120409-M2\obj\Debug\GenerateResource.write.1.tlog
+E:\文\論文\20120409-M2\bin\Debug\Model2.exe.config

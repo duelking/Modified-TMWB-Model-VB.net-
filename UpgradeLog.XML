@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="WindowsApplication1">
+</Property><Property Name="方案檔" Value="D:\vbbook\ch09\e9_1_2e\WindowsApplication1\WindowsApplication1.sln">
+</Property><Property Name="Date" Value="2010年10月25日">
+</Property><Property Name="Time" Value="下午 23:32">
+</Property></Properties><Event ErrorLevel="0" Project="WindowsApplication1" Source="WindowsApplication1.vbproj" Description="專案轉換成功">
+</Event><Event ErrorLevel="3" Project="WindowsApplication1" Source="WindowsApplication1.vbproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="WindowsApplication1.sln" Description="方案轉換成功">
+</Event><Event ErrorLevel="3" Project="" Source="WindowsApplication1.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="WindowsApplication1" Source="WindowsApplication1.vbproj" Description="掃描完成: 專案檔不需要升級。">
+</Event></UpgradeLog>

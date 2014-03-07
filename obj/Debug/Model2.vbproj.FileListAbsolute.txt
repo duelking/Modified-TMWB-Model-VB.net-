@@ -1,0 +1,102 @@
+E:\文\論文\20120409-M2\bin\Debug\Model2.exe.config
+E:\文\論文\20120409-M2\bin\Debug\Model2.exe
+E:\文\論文\20120409-M2\bin\Debug\Model2.pdb
+E:\文\論文\20120409-M2\bin\Debug\Model2.xml
+E:\文\論文\20120409-M2\obj\Debug\ResolveAssemblyReference.cache
+E:\文\論文\20120409-M2\obj\Debug\Model2.Form1.resources
+E:\文\論文\20120409-M2\obj\Debug\Model2.Form2.resources
+E:\文\論文\20120409-M2\obj\Debug\Model2.Form3.resources
+E:\文\論文\20120409-M2\obj\Debug\Model2.Form4.resources
+E:\文\論文\20120409-M2\obj\Debug\Model2.Form5.resources
+E:\文\論文\20120409-M2\obj\Debug\Model2.Form6.resources
+E:\文\論文\20120409-M2\obj\Debug\Model2.Form7.resources
+E:\文\論文\20120409-M2\obj\Debug\Model2.Form8.resources
+E:\文\論文\20120409-M2\obj\Debug\Model2.Resources.resources
+E:\文\論文\20120409-M2\obj\Debug\GenerateResource.read.1.tlog
+E:\文\論文\20120409-M2\obj\Debug\GenerateResource.write.1.tlog
+E:\文\論文\20120409-M2\obj\Debug\Model2.exe
+E:\文\論文\20120409-M2\obj\Debug\Model2.xml
+E:\文\論文\20120409-M2\obj\Debug\Model2.pdb
+C:\Users\Administrator\Desktop\20120503-M2\bin\Debug\Model2.exe.config
+C:\Users\Administrator\Desktop\20120503-M2\obj\Debug\Model2.exe
+C:\Users\Administrator\Desktop\20120503-M2\obj\Debug\Model2.xml
+C:\Users\Administrator\Desktop\20120503-M2\obj\Debug\Model2.pdb
+E:\文\論文\20120503-M2 - 複製\bin\Debug\Model2.exe.config
+E:\文\論文\20120503-M2 - 複製\obj\Debug\Model2.exe
+E:\文\論文\20120503-M2 - 複製\obj\Debug\Model2.xml
+E:\文\論文\20120503-M2 - 複製\obj\Debug\Model2.pdb
+E:\文\論文\20120503-M2 - 複製\bin\Debug\Model2.exe
+E:\文\論文\20120503-M2 - 複製\bin\Debug\Model2.pdb
+E:\文\論文\20120503-M2 - 複製\bin\Debug\Model2.xml
+E:\文\論文\20120503-M2 - 複製\obj\Debug\ResolveAssemblyReference.cache
+E:\文\論文\20120503-M2 - 複製\obj\Debug\Model2.Form1.resources
+E:\文\論文\20120503-M2 - 複製\obj\Debug\Model2.Form2.resources
+E:\文\論文\20120503-M2 - 複製\obj\Debug\Model2.Form3.resources
+E:\文\論文\20120503-M2 - 複製\obj\Debug\Model2.Form4.resources
+E:\文\論文\20120503-M2 - 複製\obj\Debug\Model2.Form5.resources
+E:\文\論文\20120503-M2 - 複製\obj\Debug\Model2.Form6.resources
+E:\文\論文\20120503-M2 - 複製\obj\Debug\Model2.Form7.resources
+E:\文\論文\20120503-M2 - 複製\obj\Debug\Model2.Form8.resources
+E:\文\論文\20120503-M2 - 複製\obj\Debug\Model2.Resources.resources
+E:\文\論文\20120503-M2 - 複製\obj\Debug\GenerateResource.read.1.tlog
+E:\文\論文\20120503-M2 - 複製\obj\Debug\GenerateResource.write.1.tlog
+E:\文\論文\20120503-M2\bin\Debug\Model2.exe.config
+E:\文\論文\20120503-M2\obj\Debug\Model2.exe
+E:\文\論文\20120503-M2\obj\Debug\Model2.xml
+E:\文\論文\20120503-M2\obj\Debug\Model2.pdb
+E:\文\論文\20120503-M2\bin\Debug\Model2.exe
+E:\文\論文\20120503-M2\bin\Debug\Model2.pdb
+E:\文\論文\20120503-M2\bin\Debug\Model2.xml
+E:\文\論文\20120503-M2\obj\Debug\ResolveAssemblyReference.cache
+E:\文\論文\20120503-M2\obj\Debug\Model2.Form1.resources
+E:\文\論文\20120503-M2\obj\Debug\Model2.Form2.resources
+E:\文\論文\20120503-M2\obj\Debug\Model2.Form3.resources
+E:\文\論文\20120503-M2\obj\Debug\Model2.Form4.resources
+E:\文\論文\20120503-M2\obj\Debug\Model2.Form5.resources
+E:\文\論文\20120503-M2\obj\Debug\Model2.Form6.resources
+E:\文\論文\20120503-M2\obj\Debug\Model2.Form7.resources
+E:\文\論文\20120503-M2\obj\Debug\Model2.Form8.resources
+E:\文\論文\20120503-M2\obj\Debug\Model2.Resources.resources
+E:\文\論文\20120503-M2\obj\Debug\GenerateResource.read.1.tlog
+E:\文\論文\20120503-M2\obj\Debug\GenerateResource.write.1.tlog
+E:\文\論文\Modeling Result\20120503-M2\bin\Debug\Model2.exe.config
+E:\文\論文\Modeling Result\20120503-M2\obj\Debug\Model2.exe
+E:\文\論文\Modeling Result\20120503-M2\obj\Debug\Model2.xml
+E:\文\論文\Modeling Result\20120503-M2\obj\Debug\Model2.pdb
+E:\文\論文\Modeling Result\20120503-M2\bin\Debug\Model2.exe
+E:\文\論文\Modeling Result\20120503-M2\bin\Debug\Model2.pdb
+E:\文\論文\Modeling Result\20120503-M2\bin\Debug\Model2.xml
+E:\文\論文\Modeling Result\20120503-M2\obj\Debug\Model2.Form1.resources
+E:\文\論文\Modeling Result\20120503-M2\obj\Debug\Model2.Form2.resources
+E:\文\論文\Modeling Result\20120503-M2\obj\Debug\Model2.Form3.resources
+E:\文\論文\Modeling Result\20120503-M2\obj\Debug\Model2.Form4.resources
+E:\文\論文\Modeling Result\20120503-M2\obj\Debug\Model2.Form5.resources
+E:\文\論文\Modeling Result\20120503-M2\obj\Debug\Model2.Form6.resources
+E:\文\論文\Modeling Result\20120503-M2\obj\Debug\Model2.Form7.resources
+E:\文\論文\Modeling Result\20120503-M2\obj\Debug\Model2.Form8.resources
+E:\文\論文\Modeling Result\20120503-M2\obj\Debug\Model2.Resources.resources
+E:\文\論文\Modeling Result\20120503-M2\bin\Debug\Mitov.Native.PlotLabBasic.dll
+E:\文\論文\Modeling Result\20120503-M2\bin\Debug\Mitov.Native.SignalLabBasic.dll
+E:\文\論文\Modeling Result\20120503-M2\bin\Debug\SignalLabScopePkgD15.bpl
+E:\文\論文\Modeling Result\20120503-M2\bin\Debug\rtl150.bpl
+E:\文\論文\Modeling Result\20120503-M2\bin\Debug\vcl150.bpl
+E:\文\論文\Modeling Result\20120503-M2\bin\Debug\vclx150.bpl
+E:\文\論文\Modeling Result\20120503-M2\bin\Debug\vclimg150.bpl
+E:\文\論文\Modeling Result\20120503-M2\bin\Debug\borlndmm.dll
+E:\文\論文\Modeling Result\20120503-M2\bin\Debug\CC32110MT.DLL
+E:\文\論文\Modeling Result\20120503-M2\bin\Debug\VCLLoaderCB15.dll
+E:\文\論文\Modeling Result\20120503-M2\bin\Debug\OpenWirePkgD15.bpl
+E:\文\論文\Modeling Result\20120503-M2\bin\Debug\SignalLabBasicPkgD15.bpl
+E:\文\論文\Modeling Result\20120503-M2\bin\Debug\VCSignalLabPkgCB15.bpl
+E:\文\論文\Modeling Result\20120503-M2\obj\Debug\Model2.vbproj.GenerateResource.Cache
+D:\文\論文\Modeling Result\20120503-M2\bin\Debug\Model2.exe.config
+D:\文\論文\Modeling Result\20120503-M2\obj\Debug\Model2.xml
+D:\文\論文\Modeling Result\20120503-M2\obj\Debug\Model2.pdb
+D:\論文\Modeling Result\20120503-M2\bin\Debug\Model2.exe.config
+D:\論文\Modeling Result\20120503-M2\obj\Debug\Model2.exe
+D:\論文\Modeling Result\20120503-M2\obj\Debug\Model2.xml
+D:\論文\Modeling Result\20120503-M2\obj\Debug\Model2.pdb
+C:\Users\Administrator.Tempest\Dropbox\Own\論文\Modeling Result\20120503-M2\bin\Debug\Model2.exe.config
+C:\Users\Administrator.Tempest\Dropbox\Own\論文\Modeling Result\20120503-M2\obj\Debug\Model2.exe
+C:\Users\Administrator.Tempest\Dropbox\Own\論文\Modeling Result\20120503-M2\obj\Debug\Model2.xml
+C:\Users\Administrator.Tempest\Dropbox\Own\論文\Modeling Result\20120503-M2\obj\Debug\Model2.pdb
